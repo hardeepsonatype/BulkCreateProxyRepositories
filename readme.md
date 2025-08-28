@@ -1,6 +1,6 @@
 Bulk Create Proxy Repositories in Sonatype Nexus Repository
 ===========================================================
-This document provides a ready-to-run Python script that bulk-creates **proxy** repositories in
+Provides a ready-to-run Python script that bulk-creates **proxy** repositories in
 Sonatype Nexus Repository (Repo Manager) by reading rows from a CSV.
 ---
 CSV expected columns
